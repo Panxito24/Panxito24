@@ -40,7 +40,7 @@
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-proximamente-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/diego-ormazabal"><img src="https://img.shields.io/badge/-diego%20ormazabal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="diego.ormazabal@correoaiep.cl"><img src="https://img.shields.io/badge/-diego.ormazabal-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="ormazabal.dev@gmail.com"><img src="https://img.shields.io/badge/-diego.ormazabal-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
